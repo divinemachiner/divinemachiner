@@ -1,6 +1,6 @@
 she/they
 indie game dev
-blame! roguelikes 
+inspired by blame! oseansworld and  roguelikes 
 
 <!---
 divinemachiner/divinemachiner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
